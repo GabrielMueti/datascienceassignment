@@ -1,1 +1,1 @@
-The first file has the main code while the second one has the dataset for the accident csv file.
+The file labelled main.py has the main code while the one labelled accident.csv has the data set used for the code
